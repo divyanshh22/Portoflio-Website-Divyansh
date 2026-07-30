@@ -52,7 +52,7 @@
   {
     "name": "Weather Forecast App",
     "desc": "Full-Stack weather forecasting application with real-time weather data, location-based forecasts, and API integration using Django.",
-    "image": "cryptotracker",
+    "image": "weatherlyandroid",
     "category": "mern",
     "links": {
       "view": "https://github.com/divyanshh22",
@@ -62,7 +62,7 @@
   {
     "name": "Word to PDF Converter",
     "desc": "Full-Stack document converter that transforms Word files to PDF. Features drag-and-drop interface and cloud storage integration.",
-    "image": "resumegen",
+    "image": "word2",
     "category": "mern",
     "links": {
       "view": "https://github.com/divyanshh22",
@@ -72,7 +72,7 @@
   {
     "name": "College ERP System",
     "desc": "Comprehensive student management system with attendance tracking and academic records. Deployed for 100+ students with admin dashboard.",
-    "image": "tsfbank",
+    "image": "erp",
     "category": "mern",
     "links": {
       "view": "https://github.com/divyanshh22",
