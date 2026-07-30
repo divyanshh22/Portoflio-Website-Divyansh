@@ -76,7 +76,7 @@ document.addEventListener('visibilitychange',
 const typingElement = document.querySelector(".typing-text");
 if (typingElement) {
     var typed = new Typed(".typing-text", {
-        strings: ["frontend development", "backend development", "web designing", "web development"],
+        strings: ["Full-Stack Web Developer", "backend development", "Python Application Developer", "Django Application Developer"],
         loop: true,
         typeSpeed: 50,
         backSpeed: 25,
