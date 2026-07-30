@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Python",
+    "icon": "https://cdn.simpleicons.org/python/2563eb"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://cdn.simpleicons.org/javascript/facc15"
+  },
+  {
+    "name": "Java",
+    "icon": "https://cdn.simpleicons.org/java/ed8b00"
+  },
+  {
+    "name": "Django",
+    "icon": "https://cdn.simpleicons.org/django/092e20"
+  },
+  {
+    "name": "Django REST Framework",
+    "icon": "https://cdn.simpleicons.org/django/092e20"
+  },
+  {
+    "name": "Flask",
+    "icon": "https://cdn.simpleicons.org/flask/000000"
+  },
+  {
+    "name": "Tkinter",
+    "icon": "https://cdn.simpleicons.org/python/7c3aed"
+  },
+  {
+    "name": "HTML",
+    "icon": "https://cdn.simpleicons.org/html5/e34f26"
+  },
+  {
+    "name": "CSS",
+    "icon": "https://cdn.simpleicons.org/css3/1572b6?default=F16529"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://cdn.simpleicons.org/bootstrap/7952b3"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://cdn.simpleicons.org/postgresql/4169e1"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://cdn.simpleicons.org/mysql/4479a1"
+  },
+  {
+    "name": "SQLite",
+    "icon": "https://cdn.simpleicons.org/sqlite/003b57"
+  },
+  {
+    "name": "Git",
+    "icon": "https://cdn.simpleicons.org/git/f05032"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://cdn.simpleicons.org/github/181717"
+  },
+  {
+    "name": "Cloudinary",
+    "icon": "https://cdn.simpleicons.org/cloudinary/3448c5"
+  },
+  {
+    "name": "Vercel",
+    "icon": "https://cdn.simpleicons.org/vercel/000000"
+  },
+  {
+    "name": "Render",
+    "icon": "https://cdn.simpleicons.org/render/46e3b7"
+  },
+  {
+    "name": "VS Code",
+    "icon": "https://cdn.simpleicons.org/vscode/007acc"
+  },
+  {
+    "name": "PyCharm",
+    "icon": "https://cdn.simpleicons.org/pycharm/21d789"
+  }
+]

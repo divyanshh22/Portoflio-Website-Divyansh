@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Restaurant Management System",
+    "desc": "Restaurant billing management system built with Python and Tkinter GUI. Features order management, billing, and inventory tracking.",
+    "image": "notystackandroid",
+    "category": "gui",
+    "links": {
+      "view": "https://github.com/divyanshh22/Python/blob/main/Restaurant%20Billing%20Management%20System%20Using%20Python%20with%20Tkinter%20(Graphical%20User%20Interface)",
+      "code": "https://github.com/divyanshh22/Python/blob/main/Restaurant%20Billing%20Management%20System%20Using%20Python%20with%20Tkinter%20(Graphical%20User%20Interface)"
+    }
+  },
+  {
+    "name": "Password Manager",
+    "desc": "Secure password manager app built with Python and Tkinter. Stores, encrypts, and retrieves credentials safely.",
+    "image": "sppuprepandroid",
+    "category": "gui",
+    "links": {
+      "view": "https://github.com/divyanshh22/Python/blob/main/Password%20Manager%20Using%20Python%20with%20Tkinter%20(Graphical%20User%20Interface)",
+      "code": "https://github.com/divyanshh22/Python/blob/main/Password%20Manager%20Using%20Python%20with%20Tkinter%20(Graphical%20User%20Interface)"
+    }
+  },
+  {
+    "name": "Tkinter Projects",
+    "desc": "Collection of Python GUI projects built with Tkinter. Includes multiple utility apps demonstrating Python desktop development.",
+    "image": "instagrammern",
+    "category": "gui",
+    "links": {
+      "view": "https://github.com/divyanshh22/Python-Tkinter-Projects",
+      "code": "https://github.com/divyanshh22/Python-Tkinter-Projects"
+    }
+  },
+  {
+    "name": "E-Commerce Website",
+    "desc": "Full-Stack E-Commerce web application built with LAMP Stack. Includes user authentication, product listing, cart, and payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/divyanshh22",
+      "code": "https://github.com/divyanshh22"
+    }
+  },
+  {
+    "name": "Django Chat Application",
+    "desc": "Real-time web chat application with authentication and messaging features using Django. Integrated Cloudinary for cloud-based media storage.",
+    "image": "webchat",
+    "category": "lamp",
+    "links": {
+      "view": "https://django-chat-application-71vb.onrender.com/",
+      "code": "https://github.com/divyanshh22"
+    }
+  },
+  {
+    "name": "Weather Forecast App",
+    "desc": "Full-Stack weather forecasting application with real-time weather data, location-based forecasts, and API integration using Django.",
+    "image": "cryptotracker",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/divyanshh22",
+      "code": "https://github.com/divyanshh22"
+    }
+  },
+  {
+    "name": "Word to PDF Converter",
+    "desc": "Full-Stack document converter that transforms Word files to PDF. Features drag-and-drop interface and cloud storage integration.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/divyanshh22",
+      "code": "https://github.com/divyanshh22"
+    }
+  },
+  {
+    "name": "College ERP System",
+    "desc": "Comprehensive student management system with attendance tracking and academic records. Deployed for 100+ students with admin dashboard.",
+    "image": "tsfbank",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/divyanshh22",
+      "code": "https://github.com/divyanshh22"
+    }
+  }
+]
