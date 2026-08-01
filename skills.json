@@ -52,6 +52,22 @@
     "icon": "https://cdn.simpleicons.org/sqlite/003b57"
   },
   {
+    "name": "Redis",
+    "icon": "https://cdn.simpleicons.org/redis/dc382d"
+  },
+  {
+    "name": "Celery",
+    "icon": "https://cdn.simpleicons.org/celery/37814a"
+  },
+  {
+    "name": "Django Channels",
+    "icon": "https://cdn.simpleicons.org/django/092e20"
+  },
+  {
+    "name": "WebSockets",
+    "icon": "https://cdn.simpleicons.org/socketdotio/010101"
+  },
+  {
     "name": "Git",
     "icon": "https://cdn.simpleicons.org/git/f05032"
   },
@@ -60,23 +76,17 @@
     "icon": "https://cdn.simpleicons.org/github/181717"
   },
   {
+    "name": "Docker",
+    "icon": "https://cdn.simpleicons.org/docker/2496ed"
+  },
+  {
+    "name": "Nginx",
+    "icon": "https://cdn.simpleicons.org/nginx/009639"
+  },
+  {
+    "name": "Gunicorn",
+    "icon": "https://cdn.simpleicons.org/gunicorn/499848"
+  },
+  {
     "name": "Cloudinary",
-    "icon": "https://cdn.simpleicons.org/cloudinary/3448c5"
-  },
-  {
-    "name": "Vercel",
-    "icon": "https://cdn.simpleicons.org/vercel/000000"
-  },
-  {
-    "name": "Render",
-    "icon": "https://cdn.simpleicons.org/render/46e3b7"
-  },
-  {
-    "name": "VS Code",
-    "icon": "https://cdn.simpleicons.org/vscode/007acc"
-  },
-  {
-    "name": "PyCharm",
-    "icon": "https://cdn.simpleicons.org/pycharm/21d789"
-  }
-]
+    "icon":
