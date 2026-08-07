@@ -358,13 +358,15 @@ header .navbar ul li a:hover{
 /* footer section starts */
 .footer{
   min-height: auto;
-  padding-top: 0;
+  padding-top: 2rem;
   background: rgb(0, 1, 43);
+  border-top: .1rem solid rgba(255, 255, 255, .15);
 }
 .footer .box-container{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding: 0 2rem 1rem;
 }
 .footer .box-container .box{
   flex: 1 1 25rem;

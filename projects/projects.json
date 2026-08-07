@@ -1,5 +1,15 @@
 [
   {
+    "name": "Inventory & Order Management System",
+    "desc": "Multi-vendor inventory system with real-time stock tracking, automated low-stock alerts, invoice generation, and Celery-based scheduled tasks. Built with Django REST Framework and PostgreSQL.",
+    "image": "inventory",
+    "category": "mern",
+    "links": {
+      "view": "https://inventory-order-management-system-gttj.onrender.com",
+      "code": "https://github.com/divyanshh22/Inventory-Order-Management-System"
+    }
+  },
+  {
     "name": "Restaurant Management System",
     "desc": "Restaurant billing management system built with Python and Tkinter GUI. Features order management, billing, and inventory tracking.",
     "image": "notystackandroid",

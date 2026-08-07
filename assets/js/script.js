@@ -101,10 +101,11 @@ function showSkills(skills) {
 
     let skillHTML = "";
     skills.forEach(skill => {
+        const isFontAwesome = skill.icon && !skill.icon.startsWith("http");
         skillHTML += `
         <div class="bar">
               <div class="info">
-                <img src="${skill.icon}" alt="${skill.name} logo" />
+                ${isFontAwesome ? `<i class="${skill.icon}"></i>` : `<img src="${skill.icon}" alt="${skill.name} logo" />`}
                 <span>${skill.name}</span>
               </div>
             </div>`
@@ -122,7 +123,7 @@ function showProjects(projects) {
     visibleProjects.forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="${project.name}" />
+      <img draggable="false" src="assets/images/projects/${project.image}.png" alt="${project.name}" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
