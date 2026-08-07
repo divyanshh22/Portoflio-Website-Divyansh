@@ -682,9 +682,9 @@ header .navbar ul li a:hover {
   height: 100%;
   width: 100%;
   position: absolute;
-  top: 85%;
+  top: 25%;
   left: 0;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.92);
   display: flex;
   flex-direction: column;
 }
@@ -700,9 +700,6 @@ header .navbar ul li a:hover {
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
-}
-.work .box-container .box:hover .content {
-  top: 25%;
 }
 .work .desc {
   margin: 2rem;
