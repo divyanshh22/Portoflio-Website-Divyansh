@@ -45,18 +45,18 @@
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/divyanshh22",
-      "code": "https://github.com/divyanshh22"
+      "view": "https://full-stack-e-commerce-platform-6gy3.onrender.com/",
+      "code": "https://github.com/divyanshh22/Full-Stack-E-Commerce-Platform"
     }
   },
   {
     "name": "Django Chat Application",
-    "desc": "Real-time web chat application with authentication and messaging features using Django. Integrated Cloudinary for cloud-based media storage.",
+    "desc": "Real-time Django chat app with authentication and messaging.",
     "image": "webchat",
     "category": "lamp",
     "links": {
-      "view": "https://django-chat-application-71vb.onrender.com/",
-      "code": "https://github.com/divyanshh22"
+      "view": "https://django-real-time-chat-application.onrender.com/",
+      "code": "https://github.com/divyanshh22/Django-Real-Time-Chat-Application"
     }
   },
   {
@@ -85,8 +85,8 @@
     "image": "erp",
     "category": "mern",
     "links": {
-      "view": "https://github.com/divyanshh22",
-      "code": "https://github.com/divyanshh22"
+      "view": "https://college-erp-system-t5uy.onrender.com",
+      "code": "https://github.com/divyanshh22/College-ERP-System"
     }
   }
 ]
